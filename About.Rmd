@@ -1,0 +1,16 @@
+---
+title: "About Amanda Nagle"
+output: 
+  html_document:
+    toc: true
+    toc_float: true
+---
+
+## About
+
+
+<img src="images/clinton.jpg" style="width:75%">
+
+Amanda Nagle is an MPH Candidate in the Population and Family Health department of the Mailman School of Public Health. She is pursuing a certificate in Sexuality, Sexual, and Reproductive Health.
+
+She lives in Huntsville, Alabama and loves baking, biking, and books. 
