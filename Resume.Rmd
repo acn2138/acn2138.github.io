@@ -1,0 +1,81 @@
+---
+title: "Resume"
+output: 
+  html_document:
+    toc: true
+    toc_float: true
+---
+
+
+# Amanda Nagle
+
+## Education
+
+**Master of Public Health** - May 2021 (expected)  
+Columbia University Mailman School of Public Health  	
+Population and Family Health Department, Sexuality, Sexual and Reproductive Health Certificate
+
+**Bachelor of Science** - May 2017  
+University of South Carolina Honors College  
+Majors: Statistics and Political Science 
+
+## Professional Positions
+**Population Council, GIRL Center**  
+**Research Assistant Intern** Jun. 2020- Present  
+* Developed list of policies relevant to adolescent wellbeing for the Adolescents. Atlas for Action website.   
+* Wrote literature review or statistical indicators and policy indicators on adolescent experiences globally.  
+  
+**Reproductive Health Access Project**  
+**Research Intern** Oct. 2019- Feb. 2020  
+*	Analyzed data on a survey of early pregnancy loss care provided by Federally Qualified Community Health Centers in New York; lead writing of manuscript of the findings that was accepted for publication.   
+* Created data visualizations and products to support ongoing projects.
+ 
+**US Census Bureau, Center for Optimization and Data Science**  
+**Mathematical Statistician** Jun. 2017- Aug. 2019  
+* Designed, implemented, monitored, and analyzed experiments to improve survey data quality and the data collection process. Created reports of findings for survey sponsors.     
+* Conducted a study funded by the NSF analyzing the relationship between measurement error and non-response bias in surveys, including merging large administrative and survey datasets.  
+
+**Office of Management and Budget, Office of information and Regulatory Affairs**  
+**Intern** Aug. 2016- Dec 2016    
+*	Reviewed information collection requests of statistical surveys from federal agencies for appropriate question wording and suitable sampling, data collection, weighting, and estimation plans.   
+*	Compiled, filtered, and analyzed public comments to the Federal Register Notice for the planned review of current OMB Standards on Collecting, Presenting and Maintaining data on Race and Ethnicity.  
+
+**Massachusetts Department of Public Health, Occupational Health Surveillance Program**   
+**Intern** Summer 2015  
+*	Analyzed data on employer compliance with a new severe injury reporting regulation from the Occupational Safety and Health Administration (OSHA) using SAS and Excel.  
+* Gathered data on workplace amputations, designed a database in Microsoft Access, and presented findings.  
+
+## Academic Positions
+
+**Columbia University Mailman School of Public Health, Population and Family Health Department**  
+**Graduate Research Assistant**	Apr. 2020 - present  
+*	Assists with research on sexual and reproductive health of immigrants.  
+*	Wrote application for access to restricted data at a Census Bureau regional Research Data Center.   
+
+**Columbia University Mailman School of Public Health, Epidemiology Department**  
+**Teaching Assistant** Jan.2020 – May 2020
+*	Assisted with EPID P8483: Application of Epidemiologic Research Methods with Matthew Lamb.  
+* Graded SAS programs submitted as homework and tests. Assisted students in class and office hours. 
+
+## Publication
+
+**Nagle, Amanda**, Srinivasulu, Silpa,  Maldonado, Lisa, deFiebre, Gabrielle. “Provision of Early Pregnancy Loss Care in New York Federally Qualified Health Centers”, Journal of the American Board of Family Medicine, in press. https://www.jabfm.org/content/abstracts-press#54
+
+**Nagle, Amanda** and Walejko, Gina. “Exploring Reminder Calls Intended to Increase Interviewer Compliance with Data Collection Protocols,” Survey Practice, July 2018, https://www.surveypractice.org/article/3707-exploring-reminder-calls-intended-to-increase-interviewer-compliance-with-data-collection-protocols
+
+## Conference Presentations
+“Interviewer Compliance with Case Prioritization in a Face-to-Face Survey: The Effect of Three Case Prioritization Schemes on Interviewer Behavior“, Joint Statistical Meetings 2019, Denver Colorado.   
+“Measurement Error and Nonresponse Bias Analysis” American Association for Public Opinion Research Annual Conference 2019, Toronto Canada  
+“Exploring Reminder Calls Intended to Increase Interviewer Compliance with Data Collection Protocols”, American Association for Public Opinion Research Annual Meeting 2018, Denver, Colorado.  
+“Exploring Reminder Calls Intended to Increase Interviewer Compliance with Data Collection Protocols”, Joint Statistical Meetings 2018, Vancouver, British Columbia.  
+
+ 
+## Achievements
+* President of College Democrats at the University of South Carolina, 2016   
+*	Magellan Scholar, 2015- 2016(University funding for undergraduate research)  
+*	Mu Sigma Rho Undergraduate Statistics Award, 2016
+
+
+## Computer and Programming Skills
+*	SAS Certified Specialist: Base Programming Using SAS 9.4  
+*	Experience with R Statistical Package, Stata & Python  
