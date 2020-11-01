@@ -4,9 +4,9 @@ navbar:
   title: "Home"
   right:
     - text: "About"
-      href: About.html
+      href: about.html
     - text: "Resume"
-      href: Resume.html
+      href: resume.html
     - text: "Dashboard"
       href: dashboard.html
     - icon: fa-envelope fa-lg
