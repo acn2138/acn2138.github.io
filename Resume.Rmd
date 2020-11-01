@@ -22,40 +22,40 @@ Majors: Statistics and Political Science
 ## Professional Positions
 **Population Council, GIRL Center**  
 **Research Assistant Intern** Jun. 2020- Present  
-* Developed list of policies relevant to adolescent wellbeing for the Adolescents. Atlas for Action website.   
-* Wrote literature review or statistical indicators and policy indicators on adolescent experiences globally.  
+Developed list of policies relevant to adolescent wellbeing for the Adolescents. Atlas for Action website.   
+Wrote literature review or statistical indicators and policy indicators on adolescent experiences globally.  
   
 **Reproductive Health Access Project**  
 **Research Intern** Oct. 2019- Feb. 2020  
-*	Analyzed data on a survey of early pregnancy loss care provided by Federally Qualified Community Health Centers in New York; lead writing of manuscript of the findings that was accepted for publication.   
-* Created data visualizations and products to support ongoing projects.
+Analyzed data on a survey of early pregnancy loss care provided by Federally Qualified Community Health Centers in New York; lead writing of manuscript of the findings that was accepted for publication.   
+Created data visualizations and products to support ongoing projects.
  
 **US Census Bureau, Center for Optimization and Data Science**  
 **Mathematical Statistician** Jun. 2017- Aug. 2019  
-* Designed, implemented, monitored, and analyzed experiments to improve survey data quality and the data collection process. Created reports of findings for survey sponsors.     
-* Conducted a study funded by the NSF analyzing the relationship between measurement error and non-response bias in surveys, including merging large administrative and survey datasets.  
+Designed, implemented, monitored, and analyzed experiments to improve survey data quality and the data collection process. Created reports of findings for survey sponsors.     
+Conducted a study funded by the NSF analyzing the relationship between measurement error and non-response bias in surveys, including merging large administrative and survey datasets.  
 
 **Office of Management and Budget, Office of information and Regulatory Affairs**  
 **Intern** Aug. 2016- Dec 2016    
-*	Reviewed information collection requests of statistical surveys from federal agencies for appropriate question wording and suitable sampling, data collection, weighting, and estimation plans.   
-*	Compiled, filtered, and analyzed public comments to the Federal Register Notice for the planned review of current OMB Standards on Collecting, Presenting and Maintaining data on Race and Ethnicity.  
+Reviewed information collection requests of statistical surveys from federal agencies for appropriate question wording and suitable sampling, data collection, weighting, and estimation plans.   
+Compiled, filtered, and analyzed public comments to the Federal Register Notice for the planned review of current OMB Standards on Collecting, Presenting and Maintaining data on Race and Ethnicity.  
 
 **Massachusetts Department of Public Health, Occupational Health Surveillance Program**   
 **Intern** Summer 2015  
-*	Analyzed data on employer compliance with a new severe injury reporting regulation from the Occupational Safety and Health Administration (OSHA) using SAS and Excel.  
-* Gathered data on workplace amputations, designed a database in Microsoft Access, and presented findings.  
+Analyzed data on employer compliance with a new severe injury reporting regulation from the Occupational Safety and Health Administration (OSHA) using SAS and Excel.  
+Gathered data on workplace amputations, designed a database in Microsoft Access, and presented findings.  
 
 ## Academic Positions
 
 **Columbia University Mailman School of Public Health, Population and Family Health Department**  
 **Graduate Research Assistant**	Apr. 2020 - present  
-*	Assists with research on sexual and reproductive health of immigrants.  
-*	Wrote application for access to restricted data at a Census Bureau regional Research Data Center.   
+Assists with research on sexual and reproductive health of immigrants.  
+Wrote application for access to restricted data at a Census Bureau regional Research Data Center.   
 
 **Columbia University Mailman School of Public Health, Epidemiology Department**  
 **Teaching Assistant** Jan.2020 – May 2020
-*	Assisted with EPID P8483: Application of Epidemiologic Research Methods with Matthew Lamb.  
-* Graded SAS programs submitted as homework and tests. Assisted students in class and office hours. 
+Assisted with EPID P8483: Application of Epidemiologic Research Methods with Matthew Lamb.  
+Graded SAS programs submitted as homework and tests. Assisted students in class and office hours. 
 
 ## Publication
 
@@ -71,11 +71,11 @@ Majors: Statistics and Political Science
 
  
 ## Achievements
-* President of College Democrats at the University of South Carolina, 2016   
-*	Magellan Scholar, 2015- 2016(University funding for undergraduate research)  
-*	Mu Sigma Rho Undergraduate Statistics Award, 2016
+President of College Democrats at the University of South Carolina, 2016   
+Magellan Scholar, 2015- 2016(University funding for undergraduate research)  
+Mu Sigma Rho Undergraduate Statistics Award, 2016
 
 
 ## Computer and Programming Skills
-*	SAS Certified Specialist: Base Programming Using SAS 9.4  
-*	Experience with R Statistical Package, Stata & Python  
+SAS Certified Specialist: Base Programming Using SAS 9.4  
+Experience with R Statistical Package, Stata & Python  
