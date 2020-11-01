@@ -64,7 +64,7 @@ Column {.tabset .tabset-fade}
 -----------------------------------------------------------------------
 
 ### Order Size
-```{r}
+```{r, echo=FALSE}
  insta_small %>%
   group_by(order_dow) %>%
   count(order_id) %>%
@@ -80,7 +80,7 @@ No, the size of the order does not vary much by day of the week. A small case co
 
 ### Orders Per Day
 
-```{r, message = FALSE}
+```{r, message = FALSE, , echo=FALSE}
 insta_small %>%
   group_by(order_dow) %>%
   summarize( num_orders= n_distinct(order_id)) %>%
