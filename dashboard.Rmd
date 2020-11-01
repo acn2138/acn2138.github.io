@@ -29,44 +29,14 @@ insta_small = instacart %>%
        order_dow = as.factor(order_dow)) %>%
   mutate(order_dow = ordered(order_dow, levels = c("Saturday", "Sunday", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday")))
 
+
 ```
 
-Column {data-width=650}
+
+Column
 -----------------------------------------------------------------------
 
-### Orders Per Day
-
-Which day of the week is most popular for ordering from instacart?
-(Days of the week converted from number to name with advice on which day is which from this github page:https://gist.github.com/jeremystan/c3b39d947d9b88b3ccff3147dbcf6c6b)
-
-```{r, message = FALSE}
-insta_small %>%
-  group_by(order_dow) %>%
-  summarize( num_orders= n_distinct(order_id)) %>%
-  plot_ly(x = ~order_dow, y = ~num_orders, type = "bar") %>% 
-  layout(xaxis = list(title = "Day of the Week"), yaxis = list(title = "Number of Orders"))
-
-```
-We see that the most orders come in on Saturdays. 
-
-
-Column {data-width=350}
------------------------------------------------------------------------
-
-### Order Size
-
-Does the size of the order vary by day of the week? 
-```{r}
- insta_small %>%
-  group_by(order_dow) %>%
-  count(order_id) %>%
-  plot_ly(x = ~order_dow, y = ~n, type = "box") %>%
-  layout(xaxis = list(title = "Day of the Week"), yaxis = list(title = "Number of items in order"))
-```
-No, the size of the order does not vary by day of the week. 
-
-### Chart C
-Among regular instacart users (days since prior order<30 days), is number of days since last order related to size of the order?
+### Days since last order and order size
 
 ```{r}
 matrix_for_hm = insta_small %>%
@@ -79,9 +49,43 @@ matrix_for_hm = insta_small %>%
   count(order_size) %>%
   pivot_wider(names_from = days_since_prior_order , values_from= n)%>%
   as.matrix()
-
   plot_ly(z = matrix_for_hm, type = "heatmap") %>%
   layout(xaxis = list(title = "Days since last order"), yaxis = list(title = "Number of Items in order"))
 ```
+Among regular instacart users (days since prior order<30 days), is number of days since last order related to size of the order?
+
 One could make a case that within 10 days, those that order after more days tend to order more items, but this small trend may just be driven by many people ordering around 7 days, resulting in a higher frequency of orders containing 5 items in the 7th day than on the 2nd day since ordering simply because there are more people ordering 7 days after their last order. A box plot of the first 10 days on the x axis would be my next investigative step here. I wanted to make a heatmap first because I thought of the variables as continuous. 
+
+
+Column {.tabset .tabset-fade}
+-----------------------------------------------------------------------
+
+### Order Size
+```{r}
+ insta_small %>%
+  group_by(order_dow) %>%
+  count(order_id) %>%
+  plot_ly(x = ~order_dow, y = ~n, type = "box") %>%
+  layout(xaxis = list(title = "Day of the Week"), yaxis = list(title = "Number of items in order"))
+```
+Does the size of the order vary by day of the week? 
+
+No, the size of the order does not vary much by day of the week. A small case could be made that orders on Fridays tend to be larger.
+
+
+### Orders Per Day
+
+```{r, message = FALSE}
+insta_small %>%
+  group_by(order_dow) %>%
+  summarize( num_orders= n_distinct(order_id)) %>%
+  plot_ly(x = ~order_dow, y = ~num_orders, type = "bar") %>% 
+  layout(xaxis = list(title = "Day of the Week"), yaxis = list(title = "Number of Orders"))
+
+```
+
+Which day of the week is most popular for ordering from instacart?
+(Days of the week converted from number to name with advice on which day is which from this github page:https://gist.github.com/jeremystan/c3b39d947d9b88b3ccff3147dbcf6c6b)
+
+We see that the most orders come in on Saturdays. 
 

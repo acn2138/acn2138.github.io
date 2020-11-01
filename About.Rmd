@@ -9,7 +9,7 @@ output:
 ## About
 
 
-<img src="images/clinton.jpg" style="width:75%">
+<img src="images/clinton.jpg" style="width:25%">
 
 Amanda Nagle is an MPH Candidate in the Population and Family Health department of the Mailman School of Public Health. She is pursuing a certificate in Sexuality, Sexual, and Reproductive Health.
 
