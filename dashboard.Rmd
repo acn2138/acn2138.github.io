@@ -38,7 +38,7 @@ Column
 
 ### Days since last order and order size
 
-```{r}
+```{r, echo=FALSE}
 matrix_for_hm = insta_small %>%
   filter(days_since_prior_order<30) %>%
   group_by(days_since_prior_order) %>%
