@@ -75,7 +75,7 @@ Column {.tabset .tabset-fade}
 ### Order size text
 Does the size of the order vary by day of the week? 
 
-No, the size of the order does not vary much by day of the week. A small case could be made that orders on Fridays tend to be larger.
+No, the size of the order does not vary much by day of the week. A small case could be made that orders on Mondays and Fridays tend to be larger.
 
 
 ### Orders Per Day
